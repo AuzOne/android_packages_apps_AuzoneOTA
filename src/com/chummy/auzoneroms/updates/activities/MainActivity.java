@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.chummy.blissroms.updates.activities;
+package com.chummy.auzoneroms.updates.activities;
 
 import android.annotation.SuppressLint;
 import android.app.ActionBar;
@@ -45,12 +45,12 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toolbar;
 
-import com.chummy.blissroms.updates.R;
-import com.chummy.blissroms.updates.RomUpdate;
-import com.chummy.blissroms.updates.tasks.LoadUpdateManifest;
-import com.chummy.blissroms.updates.utils.Constants;
-import com.chummy.blissroms.updates.utils.Preferences;
-import com.chummy.blissroms.updates.utils.Utils;
+import com.chummy.auzoneroms.updates.R;
+import com.chummy.auzoneroms.updates.RomUpdate;
+import com.chummy.auzoneroms.updates.tasks.LoadUpdateManifest;
+import com.chummy.auzoneroms.updates.utils.Constants;
+import com.chummy.auzoneroms.updates.utils.Preferences;
+import com.chummy.auzoneroms.updates.utils.Utils;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 

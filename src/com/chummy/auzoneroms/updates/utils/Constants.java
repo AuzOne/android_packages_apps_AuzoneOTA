@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.chummy.blissroms.updates.utils;
+package com.chummy.auzoneroms.updates.utils;
 
 import android.os.Environment;
 

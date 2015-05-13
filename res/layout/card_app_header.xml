@@ -34,6 +34,6 @@
             android:layout_weight="3.97"
             android:adjustViewBounds="true"
             android:maxWidth="60dip"
-            android:src="@drawable/bliss_logo" />
+            android:src="@drawable/auzone_logo" />
     </LinearLayout>
 </android.support.v7.widget.CardView>

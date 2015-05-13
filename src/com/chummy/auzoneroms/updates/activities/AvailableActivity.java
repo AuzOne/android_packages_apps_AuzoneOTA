@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.chummy.blissroms.updates.activities;
+package com.chummy.auzoneroms.updates.activities;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -41,15 +41,15 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.Toolbar;
 
-import com.chummy.blissroms.updates.R;
-import com.chummy.blissroms.updates.RomUpdate;
-import com.chummy.blissroms.updates.download.DownloadRom;
-import com.chummy.blissroms.updates.download.DownloadRomProgress;
-import com.chummy.blissroms.updates.tasks.GenerateRecoveryScript;
-import com.chummy.blissroms.updates.utils.Constants;
-import com.chummy.blissroms.updates.utils.Preferences;
-import com.chummy.blissroms.updates.utils.Tools;
-import com.chummy.blissroms.updates.utils.Utils;
+import com.chummy.auzoneroms.updates.R;
+import com.chummy.auzoneroms.updates.RomUpdate;
+import com.chummy.auzoneroms.updates.download.DownloadRom;
+import com.chummy.auzoneroms.updates.download.DownloadRomProgress;
+import com.chummy.auzoneroms.updates.tasks.GenerateRecoveryScript;
+import com.chummy.auzoneroms.updates.utils.Constants;
+import com.chummy.auzoneroms.updates.utils.Preferences;
+import com.chummy.auzoneroms.updates.utils.Tools;
+import com.chummy.auzoneroms.updates.utils.Utils;
 
 import in.uncod.android.bypass.Bypass;
 

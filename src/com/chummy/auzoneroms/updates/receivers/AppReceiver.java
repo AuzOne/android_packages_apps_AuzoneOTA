@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.chummy.blissroms.updates.receivers;
+package com.chummy.auzoneroms.updates.receivers;
 
 import android.app.DownloadManager;
 import android.app.NotificationManager;
@@ -29,15 +29,15 @@ import android.support.v4.app.NotificationCompat;
 import android.support.v4.app.NotificationCompat.Builder;
 import android.util.Log;
 
-import com.chummy.blissroms.updates.OtaUpdates;
-import com.chummy.blissroms.updates.R;
-import com.chummy.blissroms.updates.RomUpdate;
-import com.chummy.blissroms.updates.activities.AddonActivity;
-import com.chummy.blissroms.updates.activities.AvailableActivity;
-import com.chummy.blissroms.updates.tasks.LoadUpdateManifest;
-import com.chummy.blissroms.updates.utils.Constants;
-import com.chummy.blissroms.updates.utils.Preferences;
-import com.chummy.blissroms.updates.utils.Utils;
+import com.chummy.auzoneroms.updates.OtaUpdates;
+import com.chummy.auzoneroms.updates.R;
+import com.chummy.auzoneroms.updates.RomUpdate;
+import com.chummy.auzoneroms.updates.activities.AddonActivity;
+import com.chummy.auzoneroms.updates.activities.AvailableActivity;
+import com.chummy.auzoneroms.updates.tasks.LoadUpdateManifest;
+import com.chummy.auzoneroms.updates.utils.Constants;
+import com.chummy.auzoneroms.updates.utils.Preferences;
+import com.chummy.auzoneroms.updates.utils.Utils;
 
 import java.util.Iterator;
 import java.util.Set;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.chummy.blissroms.updates.tasks;
+package com.chummy.auzoneroms.updates.tasks;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -22,9 +22,9 @@ import android.content.Intent;
 import android.os.AsyncTask;
 import android.util.Log;
 
-import com.chummy.blissroms.updates.R;
-import com.chummy.blissroms.updates.utils.Constants;
-import com.chummy.blissroms.updates.utils.Utils;
+import com.chummy.auzoneroms.updates.R;
+import com.chummy.auzoneroms.updates.utils.Constants;
+import com.chummy.auzoneroms.updates.utils.Utils;
 
 import java.io.BufferedInputStream;
 import java.io.File;

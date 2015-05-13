@@ -1,4 +1,4 @@
-package com.chummy.blissroms.updates.download;
+package com.chummy.auzoneroms.updates.download;
 
 import android.app.DownloadManager;
 import android.content.Context;
@@ -7,8 +7,8 @@ import android.database.CursorIndexOutOfBoundsException;
 import android.os.AsyncTask;
 import android.util.Log;
 
-import com.chummy.blissroms.updates.activities.AddonActivity;
-import com.chummy.blissroms.updates.utils.Constants;
+import com.chummy.auzoneroms.updates.activities.AddonActivity;
+import com.chummy.auzoneroms.updates.utils.Constants;
 
 public class DownloadAddonProgress extends AsyncTask<Long, Integer, Void> implements Constants {
     public final String TAG = this.getClass().getSimpleName();

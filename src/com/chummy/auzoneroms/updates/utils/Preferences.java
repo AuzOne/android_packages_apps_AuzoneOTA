@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.chummy.blissroms.updates.utils;
+package com.chummy.auzoneroms.updates.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.util.Log;
 
-import com.chummy.blissroms.updates.R;
+import com.chummy.auzoneroms.updates.R;
 
 public class Preferences implements Constants {
 
