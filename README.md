@@ -1,7 +1,7 @@
 # Maintainers, your ROM must be set up to include these or else it would not work properly:
 
-1. A place to host your ROM addons to be placed into ota.xml (Default goes to http://downloads.blissroms.com/Add-ons/addons.xml but you can make your own)
-3. A place to host your update info (Add it into http://downloads.blissroms.com/BlissPop/Official/modelname/ota.xml)
+1. A place to host your ROM addons to be placed into ota.xml (Default goes to http://downloads.auzoneroms.com/Add-ons/addons.xml but you can make your own)
+3. A place to host your update info (Add it into http://downloads.auzoneroms.com/BlissPop/Official/modelname/ota.xml)
 3. Build.prop entries (To ensure compatibility/non-compatible dialogs from showing up)
 
 # OTA.XML Template
@@ -10,11 +10,11 @@ As of April 1st, 2015, the Bliss build code will have ota.xml support to structu
 
 # ADDONS.XML Template
 
-This file needs to be added into http://downloads.blissroms.com/Add-ons/, please look at http://downloads.blissroms.com/Add-ons/addons.xml on how to structure it. You can make your own. The final link will be added into the bottom of ota.xml
+This file needs to be added into http://downloads.auzoneroms.com/Add-ons/, please look at http://downloads.auzoneroms.com/Add-ons/addons.xml on how to structure it. You can make your own. The final link will be added into the bottom of ota.xml
 
 # BUILD.PROP Entries
 
-If you haven't already, please merge http://review.blissroms.com:8081/#/c/78/ to get the build.prop entries "ro.ota.systemname, ro.ota.version, ro.ota.device, ro.ota.manifest"
+If you haven't already, please merge http://review.auzoneroms.com:8081/#/c/78/ to get the build.prop entries "ro.ota.systemname, ro.ota.version, ro.ota.device, ro.ota.manifest"
 
 # Instructions to compile this app yourself
 

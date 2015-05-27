@@ -14,18 +14,18 @@
  * limitations under the License.
  */
 
-package com.chummy.blissroms.updates.download;
+package com.chummy.auzoneroms.updates.download;
 
 import android.app.DownloadManager;
 import android.content.Context;
 import android.net.Uri;
 import android.os.Environment;
 
-import com.chummy.blissroms.updates.R;
-import com.chummy.blissroms.updates.RomUpdate;
-import com.chummy.blissroms.updates.utils.Constants;
-import com.chummy.blissroms.updates.utils.Preferences;
-import com.chummy.blissroms.updates.utils.Utils;
+import com.chummy.auzoneroms.updates.R;
+import com.chummy.auzoneroms.updates.RomUpdate;
+import com.chummy.auzoneroms.updates.utils.Constants;
+import com.chummy.auzoneroms.updates.utils.Preferences;
+import com.chummy.auzoneroms.updates.utils.Utils;
 
 import java.io.File;
 

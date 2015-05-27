@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.chummy.blissroms.updates;
+package com.chummy.auzoneroms.updates;
 
 
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Environment;
 
-import com.chummy.blissroms.updates.utils.Constants;
+import com.chummy.auzoneroms.updates.utils.Constants;
 
 import java.io.File;
 

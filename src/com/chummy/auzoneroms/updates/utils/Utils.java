@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.chummy.blissroms.updates.utils;
+package com.chummy.auzoneroms.updates.utils;
 
 import android.annotation.SuppressLint;
 import android.app.AlarmManager;
@@ -34,11 +34,11 @@ import android.text.TextUtils;
 import android.text.style.BulletSpan;
 import android.util.Log;
 
-import com.chummy.blissroms.updates.R;
-import com.chummy.blissroms.updates.RomUpdate;
-import com.chummy.blissroms.updates.activities.AvailableActivity;
-import com.chummy.blissroms.updates.activities.MainActivity;
-import com.chummy.blissroms.updates.receivers.AppReceiver;
+import com.chummy.auzoneroms.updates.R;
+import com.chummy.auzoneroms.updates.RomUpdate;
+import com.chummy.auzoneroms.updates.activities.AvailableActivity;
+import com.chummy.auzoneroms.updates.activities.MainActivity;
+import com.chummy.auzoneroms.updates.receivers.AppReceiver;
 
 import java.io.BufferedReader;
 import java.io.File;

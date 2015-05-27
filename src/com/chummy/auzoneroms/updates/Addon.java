@@ -1,4 +1,4 @@
-package com.chummy.blissroms.updates;
+package com.chummy.auzoneroms.updates;
 
 public class Addon {
 

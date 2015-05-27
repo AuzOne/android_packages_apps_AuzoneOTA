@@ -1,4 +1,4 @@
-package com.chummy.blissroms.updates.activities;
+package com.chummy.auzoneroms.updates.activities;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -23,14 +23,14 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toolbar;
 
-import com.chummy.blissroms.updates.Addon;
-import com.chummy.blissroms.updates.R;
-import com.chummy.blissroms.updates.RomUpdate;
-import com.chummy.blissroms.updates.download.DownloadAddon;
-import com.chummy.blissroms.updates.tasks.AddonXmlParser;
-import com.chummy.blissroms.updates.utils.Constants;
-import com.chummy.blissroms.updates.utils.Preferences;
-import com.chummy.blissroms.updates.utils.Utils;
+import com.chummy.auzoneroms.updates.Addon;
+import com.chummy.auzoneroms.updates.R;
+import com.chummy.auzoneroms.updates.RomUpdate;
+import com.chummy.auzoneroms.updates.download.DownloadAddon;
+import com.chummy.auzoneroms.updates.tasks.AddonXmlParser;
+import com.chummy.auzoneroms.updates.utils.Constants;
+import com.chummy.auzoneroms.updates.utils.Preferences;
+import com.chummy.auzoneroms.updates.utils.Utils;
 
 import java.io.BufferedInputStream;
 import java.io.File;

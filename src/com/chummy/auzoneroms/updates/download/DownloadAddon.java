@@ -1,4 +1,4 @@
-package com.chummy.blissroms.updates.download;
+package com.chummy.auzoneroms.updates.download;
 
 import android.app.DownloadManager;
 import android.content.Context;
@@ -6,9 +6,9 @@ import android.net.Uri;
 import android.os.Environment;
 import android.util.Log;
 
-import com.chummy.blissroms.updates.OtaUpdates;
-import com.chummy.blissroms.updates.utils.Constants;
-import com.chummy.blissroms.updates.utils.Preferences;
+import com.chummy.auzoneroms.updates.OtaUpdates;
+import com.chummy.auzoneroms.updates.utils.Constants;
+import com.chummy.auzoneroms.updates.utils.Preferences;
 
 public class DownloadAddon implements Constants {
 

@@ -1,4 +1,4 @@
-package com.chummy.blissroms.updates;
+package com.chummy.auzoneroms.updates;
 
 import android.app.Application;
 import android.support.v4.util.ArrayMap;
