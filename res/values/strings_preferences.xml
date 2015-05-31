@@ -56,5 +56,5 @@
     <string name="notification_ignoring_release">Currently skipping version: </string>
     <string name="notification_not_ignoring_release">You are not skipping any updates</string>
     <string name="credits_title">About</string>
-    <string name="credits_description">Version 4.0.0 - Team Bliss Official ROM Updater \n\nApplication Compiler: Nicholas Chum (nicholaschum)\nIcon and Graphics Designer: Jezebel Ng (BellaxMiu) \nSource Contributor: Erwan Leboucher (genesixxbf3)\nServer Automation: Tobias Teschner (tobitege)\n\nOriginal app source code written by Matt Booth (Kryten2k35)</string>
+    <string name="credits_description">Version 4.0.0 - Team Auzone Official ROM Updater \n\nApplication Compiler: Nicholas Chum (nicholaschum)\nIcon and Graphics Designer: Jezebel Ng (BellaxMiu) \nSource Contributor: Erwan Leboucher (genesixxbf3)\nServer Automation: Tobias Teschner (tobitege)\n\nOriginal app source code written by Matt Booth (Kryten2k35)</string>
 </resources>

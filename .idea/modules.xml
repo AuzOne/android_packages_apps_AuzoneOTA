@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BlissOTA.iml" filepath="$PROJECT_DIR$/BlissOTA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuzoneOTA.iml" filepath="$PROJECT_DIR$/AuzoneOTA.iml" />
     </modules>
   </component>
 </project>

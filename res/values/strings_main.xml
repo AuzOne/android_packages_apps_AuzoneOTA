@@ -20,9 +20,9 @@
     <string name="main_update_filename">Filename</string>
     <string name="main_update_progress">Download Progress</string>
     <string name="main_website">Website</string>
-    <string name="main_website_summary">Visit the official BlissRoms website</string>
+    <string name="main_website_summary">Visit the official AuzoneRoms website</string>
     <string name="main_donate">Donate</string>
-    <string name="main_donate_summary">Donate to Team Bliss!</string>
+    <string name="main_donate_summary">Donate to Team Auzone!</string>
     <string name="main_tap_to_download">Tap to download</string>
     <string name="main_download_completed_details">Tap for details</string>
     <string name="main_tap_to_view_progress">Tap to view progress</string>
@@ -41,7 +41,7 @@
 
     <!-- Dialogs -->
     <string name="main_not_compatible_title">Not compatible</string>
-    <string name="main_not_compatible_message">Your system is not configured correctly to receive OTA updates. Please manually flash the latest version of Bliss to have the correct configuration.</string>
+    <string name="main_not_compatible_message">Your system is not configured correctly to receive OTA updates. Please manually flash the latest version of Auzone to have the correct configuration.</string>
     <string name="main_not_connected_title">Not connected</string>
     <string name="main_not_connected_message">You are not connected to any network. Please enable your Mobile Network or WiFi and try again.</string>
     <string name="main_playstore_title">BitCoin</string>

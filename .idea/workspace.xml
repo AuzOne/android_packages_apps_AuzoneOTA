@@ -74,14 +74,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="BlissOTA" />
+              <option name="name" value="AuzoneOTA" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="BlissOTA" />
+                <option name="name" value="AuzoneOTA" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -657,7 +657,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="BlissOTA" />
+              <option name="name" value="AuzoneOTA" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.2.1-all/c64ydeuardnfqctvr1gm30w53/gradle-2.2.1/src/announce" />
@@ -890,7 +890,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlissOTA" />
+              <option name="myItemId" value="AuzoneOTA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -900,7 +900,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlissOTA" />
+              <option name="myItemId" value="AuzoneOTA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -914,7 +914,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlissOTA" />
+              <option name="myItemId" value="AuzoneOTA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -932,7 +932,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlissOTA" />
+              <option name="myItemId" value="AuzoneOTA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -950,7 +950,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlissOTA" />
+              <option name="myItemId" value="AuzoneOTA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -990,7 +990,7 @@
       <recent name="C:\Users\Nicholas\Documents\GitHub\OTAUpdates\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Android Application.BlissOTA">
+  <component name="RunManager" selected="Android Application.AuzoneOTA">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1123,8 +1123,8 @@
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="BlissOTA" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="BlissOTA" />
+    <configuration default="false" name="AuzoneOTA" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="AuzoneOTA" />
       <option name="ACTIVITY_CLASS" value="com.chummy.auzoneroms.updates.activities.MainActivity" />
       <option name="MODE" value="specific_activity" />
       <option name="DEPLOY" value="true" />
@@ -1147,7 +1147,7 @@
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Android Application.OTAUpdates" />
-      <item index="1" class="java.lang.String" itemvalue="Android Application.BlissOTA" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.AuzoneOTA" />
     </list>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />

@@ -1,12 +1,12 @@
 # Maintainers, your ROM must be set up to include these or else it would not work properly:
 
 1. A place to host your ROM addons to be placed into ota.xml (Default goes to http://downloads.auzoneroms.com/Add-ons/addons.xml but you can make your own)
-3. A place to host your update info (Add it into http://downloads.auzoneroms.com/BlissPop/Official/modelname/ota.xml)
+3. A place to host your update info (Add it into http://downloads.auzoneroms.com/AuzonePop/Official/modelname/ota.xml)
 3. Build.prop entries (To ensure compatibility/non-compatible dialogs from showing up)
 
 # OTA.XML Template
 
-As of April 1st, 2015, the Bliss build code will have ota.xml support to structure it for you, as well as place it in your correct directory.
+As of April 1st, 2015, the Auzone build code will have ota.xml support to structure it for you, as well as place it in your correct directory.
 
 # ADDONS.XML Template
 
