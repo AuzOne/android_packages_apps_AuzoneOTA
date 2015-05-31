@@ -37,7 +37,7 @@ LOCAL_AAPT_FLAGS := \
 	--extra-packages com.google.android.gms \
 	--extra-packages android.support.v7.cardview
 
-LOCAL_PACKAGE_NAME := BlissOTA
+LOCAL_PACKAGE_NAME := AuzoneOTA
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
 	RootTools \
